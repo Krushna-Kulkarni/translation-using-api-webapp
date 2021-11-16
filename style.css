@@ -1,0 +1,44 @@
+.container{
+margin:auto;
+max-width:600px;
+align-items:center;
+text-align:center;
+}
+
+.Nav{
+    
+    margin-top:0px;
+    text-align:center;
+}
+
+.Nav h1{
+
+    margin:auto;
+    max-width:600px;
+    padding:0rem 1rem 1rem 1rem;
+}
+
+label[name='input-label'],[name='output-label']{
+    font-size:1.2rem;
+}
+
+#text-input{
+
+    margin:1rem auto;
+}
+
+#text-output{
+    margin:1rem auto;
+
+}
+
+
+.footer{
+    text-align:center;
+}
+
+.footer .header{
+    margin:auto;
+    max-width:600px;
+    padding:0rem 1rem 0rem 1rem;
+}
